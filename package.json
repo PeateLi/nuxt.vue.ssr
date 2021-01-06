@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dayjs": "^1.8.23",
     "element-ui": "^2.4.11",
     "html2canvas": "^1.0.0-rc.5",
